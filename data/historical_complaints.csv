@@ -1,0 +1,501 @@
+complaint_id,complaint_text,domain,officer_id,priority,eta_days,status
+HIST0001,Street lights on Civil Lines have not been working since 12 days causing safety issues at night.,infrastructure,OFF001,Medium,30,Resolved
+HIST0002,Loudspeakers at City Hospital play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Medium,4,Resolved
+HIST0003,My house in Gomti Nagar was flooded due to nearby illegal construction blocking the natural drain.,housing,OFF010,Low,22,Resolved
+HIST0004,The vaccination camp scheduled at Town Hall was cancelled without notice for 18 weeks.,healthcare,OFF006,Low,9,Resolved
+HIST0005,High voltage fluctuation on Shastri Marg damaged our appliances. Need compensation and immediate fix.,electricity,OFF005,Medium,2,Closed
+HIST0006,Water coming from taps in Sector 4 is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,Medium,8,Resolved
+HIST0007,Potholes on the main highway near Municipal Office causing frequent accidents and vehicle damage.,transport,OFF007,Medium,14,Resolved
+HIST0008,Slum demolition in Powai was done without proper notice or rehabilitation arrangements for 13 families.,housing,OFF010,High,31,Closed
+HIST0009,Received property tax notice for Krishna Nagar property with incorrect assessment value. Need correction.,taxation,OFF009,Low,25,Resolved
+HIST0010,Dengue outbreak in Sector 4 - 17 cases confirmed. No fumigation or awareness drive started.,healthcare,OFF006,High,1,Resolved
+HIST0011,The ambulance service in Banjara Hills took 10 hours to respond causing a patient's death.,healthcare,OFF006,High,1,Resolved
+HIST0012,Common areas in government housing at Town Hall are being illegally encroached upon.,housing,OFF010,Low,61,Resolved
+HIST0013,The road divider on MG Road was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,High,1,Resolved
+HIST0014,The drain near Civil Lines is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,High,5,Closed
+HIST0015,The drain near Gandhi Nagar is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,High,4,Resolved
+HIST0016,Illegal electricity connections tapped from main line on Sector 14 causing frequent outages.,electricity,OFF005,High,4,Closed
+HIST0017,Loudspeakers at District Court play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Low,18,Resolved
+HIST0018,Underground utility cables are exposed on Shastri Marg posing serious electrocution risk.,utilities,OFF002,Medium,15,Resolved
+HIST0019,Dead animals on Lal Bagh Road have not been removed for 14 days causing disease outbreak risk.,sanitation,OFF003,Medium,3,Resolved
+HIST0020,Potholes on the main highway near Old Bus Stand causing frequent accidents and vehicle damage.,transport,OFF007,High,7,Closed
+HIST0021,The footpath on MG Road is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Medium,12,Resolved
+HIST0022,A factory near Railway Station is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,High,3,Resolved
+HIST0023,Dangling live electric wire on Sector 14 near Railway Station is a life-threatening hazard.,electricity,OFF005,Medium,9,Closed
+HIST0024,Dead animals on Anna Salai have not been removed for 4 days causing disease outbreak risk.,sanitation,OFF003,Medium,5,Resolved
+HIST0025,The drain near MG Road is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,Medium,9,Resolved
+HIST0026,Low water pressure in Andheri West since 2 days. Water does not reach above first floor.,water_supply,OFF004,High,1,Resolved
+HIST0027,The transformer on Civil Lines is producing loud sparking sounds since last night. Very dangerous.,utilities,OFF002,High,9,Resolved
+HIST0028,Garbage has not been collected from Koramangala for 7 days. The smell is unbearable and health hazard.,sanitation,OFF003,Medium,10,Resolved
+HIST0029,The railway station at Municipal Office has no proper lighting in the parking area causing theft.,transport,OFF007,High,1,Closed
+HIST0030,My GST registration application has been pending for 24 days without any response.,taxation,OFF009,Medium,30,Resolved
+HIST0031,Dangling live electric wire on Anna Salai near Main Market is a life-threatening hazard.,electricity,OFF005,High,6,Resolved
+HIST0032,The drainage system on Rajiv Chowk collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,High,12,Closed
+HIST0033,"No sanitation in government hospital at Railway Station. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,1,Resolved
+HIST0034,Property tax amount for Koramangala is higher than neighbouring properties of same size without reason.,taxation,OFF009,Low,15,Resolved
+HIST0035,Potholes on the main highway near City Hospital causing frequent accidents and vehicle damage.,transport,OFF007,Medium,6,Resolved
+HIST0036,The drainage system on MG Road collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,Low,7,Resolved
+HIST0037,Illegal DJ parties in open ground near Main Market till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Medium,2,Resolved
+HIST0038,Slum demolition in Powai was done without proper notice or rehabilitation arrangements for 18 families.,housing,OFF010,Low,53,Resolved
+HIST0039,Dangling live electric wire on Shastri Marg near Town Hall is a life-threatening hazard.,electricity,OFF005,High,5,Resolved
+HIST0040,Power outage in Krishna Nagar for 9 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,Medium,4,Resolved
+HIST0041,Tax deducted twice for Whitefield property this quarter. Requesting refund of excess amount.,taxation,OFF009,High,25,Resolved
+HIST0042,The drain near Anna Salai is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,Low,5,Closed
+HIST0043,Electricity bill for Powai is three times higher than usual without any increase in usage.,electricity,OFF005,High,4,Closed
+HIST0044,The substation on Brigade Road is making loud humming noise and smells of burning for 8 days.,electricity,OFF005,High,6,Closed
+HIST0045,The railway station at Railway Station has no proper lighting in the parking area causing theft.,transport,OFF007,Low,5,Resolved
+HIST0046,Mosquito breeding in stagnant water near Old Bus Stand due to poor drainage in Gomti Nagar.,sanitation,OFF003,Low,4,Closed
+HIST0047,Power outage in Krishna Nagar for 27 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,Medium,4,Resolved
+HIST0048,Open defecation is happening near Railway Station due to lack of public toilets. Urgent action needed.,sanitation,OFF003,High,5,Resolved
+HIST0049,The drainage system on Gandhi Nagar collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,Low,37,Closed
+HIST0050,Street lights on Rajiv Chowk have not been working since 5 days causing safety issues at night.,infrastructure,OFF001,Medium,3,Resolved
+HIST0051,Road tax was paid 16 days ago but vehicle registration portal shows as pending.,taxation,OFF009,Low,23,Resolved
+HIST0052,The vaccination camp scheduled at Railway Station was cancelled without notice for 10 weeks.,healthcare,OFF006,Medium,1,Resolved
+HIST0053,The bridge near Town Hall is showing cracks and looks structurally unsafe. Immediate inspection required.,infrastructure,OFF001,High,6,Resolved
+HIST0054,Water supply timing in Koramangala has changed without notice causing major inconvenience.,water_supply,OFF004,High,6,Resolved
+HIST0055,Street vendor electricity connections on Nehru Street are illegally tapped causing overload issues.,utilities,OFF002,High,6,Resolved
+HIST0056,Multiple utility poles on Gandhi Nagar are leaning and may fall during the next storm.,utilities,OFF002,High,3,Closed
+HIST0057,The drain near Nehru Street is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,High,1,Resolved
+HIST0058,A temple near Sector 4 uses loudspeakers at 4am daily. Residents have complained 6 times.,noise_pollution,OFF008,Low,5,Resolved
+HIST0059,The drain near Lal Bagh Road is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,Medium,5,Resolved
+HIST0060,Multiple utility poles on Nehru Street are leaning and may fall during the next storm.,utilities,OFF002,High,4,Closed
+HIST0061,E-rickshaw operators in Gomti Nagar are overloading passengers dangerously beyond capacity.,transport,OFF007,Medium,19,Closed
+HIST0062,Firecrackers being burst in Whitefield every night for 23 days causing distress to elderly and children.,noise_pollution,OFF008,Medium,14,Closed
+HIST0063,Water coming from taps in Sector 4 is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,High,4,Resolved
+HIST0064,Gas pipeline leak detected near Civil Lines. Strong smell of gas in the area since 10 hours.,utilities,OFF002,High,8,Closed
+HIST0065,Bus driver on route 6 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,High,3,Resolved
+HIST0066,Flyover construction debris has not been cleared from Civil Lines for 22 days causing major traffic issues.,infrastructure,OFF001,High,17,Closed
+HIST0067,Garbage has not been collected from Krishna Nagar for 3 days. The smell is unbearable and health hazard.,sanitation,OFF003,High,6,Resolved
+HIST0068,The public toilet at Old Bus Stand has been locked for 23 days leaving no facility for residents.,sanitation,OFF003,Medium,6,Resolved
+HIST0069,A large pothole on Gandhi Nagar near Old Bus Stand caused my vehicle to break down. This has been reported 3 times before.,infrastructure,OFF001,Medium,8,Closed
+HIST0070,Garbage has not been collected from Andheri West for 18 days. The smell is unbearable and health hazard.,sanitation,OFF003,Low,12,Resolved
+HIST0071,Water supply timing in Ward 7 has changed without notice causing major inconvenience.,water_supply,OFF004,Low,4,Closed
+HIST0072,Water supply timing in Gomti Nagar has changed without notice causing major inconvenience.,water_supply,OFF004,Medium,9,Closed
+HIST0073,Street vendor electricity connections on Lal Bagh Road are illegally tapped causing overload issues.,utilities,OFF002,High,7,Resolved
+HIST0074,Bus driver on route 13 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,Medium,12,Resolved
+HIST0075,The water tank at Government School has overflowed for 3 consecutive days wasting thousands of litres.,water_supply,OFF004,Medium,13,Resolved
+HIST0076,The borewell at City Hospital has dried up leaving the community with no water source.,water_supply,OFF004,Low,14,Resolved
+HIST0077,Rental agreement disputes in Koramangala — landlord has locked the property illegally during tenancy.,housing,OFF010,High,16,Resolved
+HIST0078,Potholes on the main highway near District Court causing frequent accidents and vehicle damage.,transport,OFF007,Low,7,Resolved
+HIST0079,Potholes on the main highway near Government School causing frequent accidents and vehicle damage.,transport,OFF007,Medium,17,Closed
+HIST0080,A large pothole on Nehru Street near Old Bus Stand caused my vehicle to break down. This has been reported 4 times before.,infrastructure,OFF001,Low,14,Resolved
+HIST0081,The public toilet at Government School has been locked for 21 days leaving no facility for residents.,sanitation,OFF003,Low,8,Resolved
+HIST0082,Stray dogs are feeding on garbage dumped near Shastri Marg creating health and safety risks.,sanitation,OFF003,High,4,Resolved
+HIST0083,Water meter readings in Krishna Nagar are incorrect. Getting bills for double the actual usage.,water_supply,OFF004,High,1,Resolved
+HIST0084,Repeated tripping of main supply in Ward 7 causing power cuts 12 times a day.,electricity,OFF005,High,3,Resolved
+HIST0085,The transformer on Anna Salai is producing loud sparking sounds since last night. Very dangerous.,utilities,OFF002,High,7,Resolved
+HIST0086,Streetlights in Krishna Nagar are on during daytime wasting electricity for 4 days.,electricity,OFF005,High,3,Resolved
+HIST0087,Illegal parking of commercial vehicles on Anna Salai blocks traffic for hours every day.,transport,OFF007,Low,16,Resolved
+HIST0088,The municipal wifi hotspot at Municipal Office has not been working for 29 days.,utilities,OFF002,Medium,11,Resolved
+HIST0089,The borewell at Old Bus Stand has dried up leaving the community with no water source.,water_supply,OFF004,High,4,Resolved
+HIST0090,Water supply timing in Koramangala has changed without notice causing major inconvenience.,water_supply,OFF004,Medium,14,Resolved
+HIST0091,Internet and cable services have been disrupted in Salt Lake for 25 days affecting work from home.,utilities,OFF002,High,3,Resolved
+HIST0092,Medical oxygen cylinders at Municipal Office hospital are empty. ICU patients at risk.,healthcare,OFF006,High,2,Resolved
+HIST0093,My GST registration application has been pending for 11 days without any response.,taxation,OFF009,High,27,Resolved
+HIST0094,The road divider on Sector 14 was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,Low,37,Closed
+HIST0095,No bus shelter on Shastri Marg causing hardship for commuters in rain and extreme heat.,transport,OFF007,High,2,Resolved
+HIST0096,Illegal DJ parties in open ground near Railway Station till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,High,4,Resolved
+HIST0097,Electricity bill for Salt Lake is three times higher than usual without any increase in usage.,electricity,OFF005,Medium,3,Closed
+HIST0098,Traffic signal at Anna Salai junction has been non-functional for 18 days causing accidents.,transport,OFF007,High,12,Closed
+HIST0099,Stray dogs are feeding on garbage dumped near Civil Lines creating health and safety risks.,sanitation,OFF003,Low,11,Resolved
+HIST0100,The municipal wifi hotspot at Government School has not been working for 15 days.,utilities,OFF002,Medium,11,Closed
+HIST0101,Gas pipeline leak detected near Rajiv Chowk. Strong smell of gas in the area since 23 hours.,utilities,OFF002,Medium,10,Resolved
+HIST0102,Sewage water is mixing with drinking water pipeline near Rajiv Chowk. Very serious health risk.,water_supply,OFF004,Medium,1,Resolved
+HIST0103,Repeated tripping of main supply in Andheri West causing power cuts 15 times a day.,electricity,OFF005,High,5,Resolved
+HIST0104,Road tax was paid 14 days ago but vehicle registration portal shows as pending.,taxation,OFF009,High,27,Resolved
+HIST0105,Tax exemption for senior citizen in Salt Lake was removed without notice or reason this year.,taxation,OFF009,Low,18,Resolved
+HIST0106,Internet and cable services have been disrupted in Salt Lake for 4 days affecting work from home.,utilities,OFF002,Medium,10,Closed
+HIST0107,Street vendor electricity connections on Brigade Road are illegally tapped causing overload issues.,utilities,OFF002,Low,5,Resolved
+HIST0108,Illegal DJ parties in open ground near Railway Station till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Low,12,Resolved
+HIST0109,Bus route 10 has been cancelled for 10 days. Thousands of commuters stranded daily.,transport,OFF007,Low,14,Resolved
+HIST0110,Bus driver on route 2 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,High,7,Closed
+HIST0111,Building near Old Bus Stand is under construction without valid permits blocking emergency exit roads.,housing,OFF010,Medium,30,Resolved
+HIST0112,Common areas in government housing at Post Office are being illegally encroached upon.,housing,OFF010,Low,22,Resolved
+HIST0113,Unhygienic food being sold near Main Market hospital. Multiple food poisoning cases reported.,healthcare,OFF006,High,3,Closed
+HIST0114,No bus shelter on Brigade Road causing hardship for commuters in rain and extreme heat.,transport,OFF007,High,9,Resolved
+HIST0115,The housing society at Post Office is denying flat possession despite full payment 30 days ago.,housing,OFF010,Medium,6,Closed
+HIST0116,Mosquito breeding in stagnant water near Old Bus Stand due to poor drainage in Gomti Nagar.,sanitation,OFF003,High,5,Resolved
+HIST0117,No bus shelter on MG Road causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,20,Resolved
+HIST0118,Street vendor electricity connections on Anna Salai are illegally tapped causing overload issues.,utilities,OFF002,High,1,Resolved
+HIST0119,Street vendor electricity connections on Civil Lines are illegally tapped causing overload issues.,utilities,OFF002,Medium,7,Resolved
+HIST0120,A factory near Main Market is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,Medium,9,Resolved
+HIST0121,Illegal dumping of construction waste at Old Bus Stand is blocking the road and causing stench.,sanitation,OFF003,High,3,Resolved
+HIST0122,Construction work on Nehru Street continues all night violating noise pollution norms. No sleep for 30 days.,noise_pollution,OFF008,High,1,Closed
+HIST0123,Speed breakers on Brigade Road have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,High,5,Resolved
+HIST0124,Dengue outbreak in Krishna Nagar - 10 cases confirmed. No fumigation or awareness drive started.,healthcare,OFF006,High,1,Resolved
+HIST0125,Property tax amount for Salt Lake is higher than neighbouring properties of same size without reason.,taxation,OFF009,Low,32,Resolved
+HIST0126,The water tank at Central Park has overflowed for 26 consecutive days wasting thousands of litres.,water_supply,OFF004,High,7,Resolved
+HIST0127,Illegal DJ parties in open ground near Main Market till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Low,15,Resolved
+HIST0128,Common areas in government housing at Railway Station are being illegally encroached upon.,housing,OFF010,Low,79,Resolved
+HIST0129,Loudspeakers at Government School play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Medium,12,Closed
+HIST0130,Fake medical practitioners operating clinic on MG Road without valid license.,healthcare,OFF006,High,1,Resolved
+HIST0131,Water coming from taps in Koramangala is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,High,3,Closed
+HIST0132,The road divider on Rajiv Chowk was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,Low,28,Resolved
+HIST0133,No bus shelter on Anna Salai causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,21,Closed
+HIST0134,The municipal wifi hotspot at District Court has not been working for 7 days.,utilities,OFF002,High,4,Resolved
+HIST0135,A large pothole on Sector 14 near Central Park caused my vehicle to break down. This has been reported 7 times before.,infrastructure,OFF001,Medium,21,Resolved
+HIST0136,Water meter readings in Sector 4 are incorrect. Getting bills for double the actual usage.,water_supply,OFF004,Low,11,Resolved
+HIST0137,The drain near MG Road is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,Medium,2,Resolved
+HIST0138,The municipal wifi hotspot at Town Hall has not been working for 25 days.,utilities,OFF002,High,5,Resolved
+HIST0139,Construction work on Sector 14 continues all night violating noise pollution norms. No sleep for 16 days.,noise_pollution,OFF008,Low,15,Resolved
+HIST0140,The footpath on MG Road is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Low,36,Resolved
+HIST0141,The water pipeline on Gandhi Nagar is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,Low,16,Resolved
+HIST0142,Power outage in Banjara Hills for 3 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,6,Resolved
+HIST0143,Electricity bill for Andheri West is three times higher than usual without any increase in usage.,electricity,OFF005,High,1,Closed
+HIST0144,The pedestrian crossing near Government School school has no zebra markings. Children in danger.,transport,OFF007,Medium,17,Resolved
+HIST0145,The vaccination camp scheduled at Central Park was cancelled without notice for 11 weeks.,healthcare,OFF006,Medium,3,Closed
+HIST0146,Low water pressure in Andheri West since 2 days. Water does not reach above first floor.,water_supply,OFF004,High,2,Resolved
+HIST0147,Bus driver on route 20 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,Medium,18,Resolved
+HIST0148,Streetlights in Ward 7 are on during daytime wasting electricity for 30 days.,electricity,OFF005,High,3,Resolved
+HIST0149,Firecrackers being burst in Ward 7 every night for 9 days causing distress to elderly and children.,noise_pollution,OFF008,High,3,Closed
+HIST0150,The public telephone booth at Central Park is completely damaged and non-functional.,utilities,OFF002,Low,4,Resolved
+HIST0151,The public park benches at Municipal Office are broken and unsafe for children and senior citizens.,infrastructure,OFF001,Low,7,Resolved
+HIST0152,Bus driver on route 18 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,High,9,Resolved
+HIST0153,Expired medicines are being distributed at the health centre near Salt Lake. Serious negligence.,healthcare,OFF006,High,1,Closed
+HIST0154,Repeated tripping of main supply in Powai causing power cuts 5 times a day.,electricity,OFF005,Medium,4,Resolved
+HIST0155,Water coming from taps in Whitefield is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,High,1,Resolved
+HIST0156,Water meter readings in Salt Lake are incorrect. Getting bills for double the actual usage.,water_supply,OFF004,Medium,12,Resolved
+HIST0157,Firecrackers being burst in Koramangala every night for 21 days causing distress to elderly and children.,noise_pollution,OFF008,Low,8,Closed
+HIST0158,The bridge near Government School is showing cracks and looks structurally unsafe. Immediate inspection required.,infrastructure,OFF001,Low,35,Resolved
+HIST0159,Stray dogs are feeding on garbage dumped near Gandhi Nagar creating health and safety risks.,sanitation,OFF003,High,1,Closed
+HIST0160,Illegal DJ parties in open ground near City Hospital till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,High,8,Resolved
+HIST0161,Building near Post Office is under construction without valid permits blocking emergency exit roads.,housing,OFF010,Medium,7,Resolved
+HIST0162,My house in Powai was flooded due to nearby illegal construction blocking the natural drain.,housing,OFF010,Low,15,Resolved
+HIST0163,The vaccination camp scheduled at District Court was cancelled without notice for 17 weeks.,healthcare,OFF006,High,2,Resolved
+HIST0164,"No sanitation in government hospital at Government School. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,3,Closed
+HIST0165,Street lights on Sector 14 have not been working since 12 days causing safety issues at night.,infrastructure,OFF001,High,12,Closed
+HIST0166,Traffic signal at Rajiv Chowk junction has been non-functional for 30 days causing accidents.,transport,OFF007,Medium,10,Closed
+HIST0167,New tax levied on Banjara Hills residents without proper public notification or justification.,taxation,OFF009,Low,44,Closed
+HIST0168,No bus shelter on Shastri Marg causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,21,Resolved
+HIST0169,The pedestrian crossing near District Court school has no zebra markings. Children in danger.,transport,OFF007,Medium,6,Resolved
+HIST0170,The sanitation workers in Powai have not come for 22 days after the festival. Garbage piling up.,sanitation,OFF003,High,3,Resolved
+HIST0171,Power outage in Gomti Nagar for 10 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,4,Resolved
+HIST0172,Flyover construction debris has not been cleared from Civil Lines for 9 days causing major traffic issues.,infrastructure,OFF001,High,7,Closed
+HIST0173,My GST registration application has been pending for 24 days without any response.,taxation,OFF009,Medium,12,Resolved
+HIST0174,No water supply in Gomti Nagar for 26 days. Residents are buying expensive tankers just to survive.,water_supply,OFF004,High,1,Resolved
+HIST0175,The substation on Shastri Marg is making loud humming noise and smells of burning for 14 days.,electricity,OFF005,Low,4,Closed
+HIST0176,The water tank at Main Market has overflowed for 7 consecutive days wasting thousands of litres.,water_supply,OFF004,High,3,Closed
+HIST0177,Loudspeakers at Main Market play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Medium,7,Closed
+HIST0178,The vaccination camp scheduled at Main Market was cancelled without notice for 15 weeks.,healthcare,OFF006,High,3,Resolved
+HIST0179,Auto rickshaw drivers in Banjara Hills are refusing to go by meter and overcharging passengers.,transport,OFF007,Medium,13,Resolved
+HIST0180,Promised amenities in housing scheme at Town Hall were not delivered even after 25 days of possession.,housing,OFF010,High,28,Resolved
+HIST0181,Honking near Central Park school zone is continuous despite no-horn boards. Students cannot concentrate.,noise_pollution,OFF008,Medium,3,Resolved
+HIST0182,Rental agreement disputes in Ward 7 — landlord has locked the property illegally during tenancy.,housing,OFF010,Medium,52,Closed
+HIST0183,The footpath on Brigade Road is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,High,14,Closed
+HIST0184,Illegal dumping of construction waste at City Hospital is blocking the road and causing stench.,sanitation,OFF003,High,1,Resolved
+HIST0185,Construction of building on Brigade Road is illegal as it violates floor space index regulations.,housing,OFF010,Medium,58,Closed
+HIST0186,Illegal DJ parties in open ground near Central Park till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Low,7,Closed
+HIST0187,The substation on Lal Bagh Road is making loud humming noise and smells of burning for 14 days.,electricity,OFF005,Medium,3,Resolved
+HIST0188,The water pipeline on Brigade Road is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,High,6,Resolved
+HIST0189,Rental agreement disputes in Salt Lake — landlord has locked the property illegally during tenancy.,housing,OFF010,Medium,57,Resolved
+HIST0190,Garbage has not been collected from Ward 7 for 19 days. The smell is unbearable and health hazard.,sanitation,OFF003,High,3,Resolved
+HIST0191,Rental agreement disputes in Krishna Nagar — landlord has locked the property illegally during tenancy.,housing,OFF010,High,9,Resolved
+HIST0192,Received income tax notice with wrong PAN number. My returns are filed but notice not withdrawn.,taxation,OFF009,High,9,Resolved
+HIST0193,Building near Old Bus Stand is under construction without valid permits blocking emergency exit roads.,housing,OFF010,Low,12,Closed
+HIST0194,Illegal DJ parties in open ground near Post Office till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Low,14,Resolved
+HIST0195,Stray dogs are feeding on garbage dumped near Anna Salai creating health and safety risks.,sanitation,OFF003,High,1,Closed
+HIST0196,Dead animals on Gandhi Nagar have not been removed for 30 days causing disease outbreak risk.,sanitation,OFF003,High,2,Closed
+HIST0197,Water coming from taps in Salt Lake is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,High,3,Resolved
+HIST0198,The bridge near District Court is showing cracks and looks structurally unsafe. Immediate inspection required.,infrastructure,OFF001,Low,18,Resolved
+HIST0199,Illegal DJ parties in open ground near Post Office till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Medium,9,Closed
+HIST0200,Dangling live electric wire on Rajiv Chowk near Old Bus Stand is a life-threatening hazard.,electricity,OFF005,Low,5,Resolved
+HIST0201,Government housing allotted to someone else despite my name on the official list for Sector 4.,housing,OFF010,Low,39,Resolved
+HIST0202,Promised amenities in housing scheme at District Court were not delivered even after 22 days of possession.,housing,OFF010,Medium,58,Resolved
+HIST0203,Rental agreement disputes in Koramangala — landlord has locked the property illegally during tenancy.,housing,OFF010,Low,78,Resolved
+HIST0204,Illegal DJ parties in open ground near Central Park till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Low,8,Resolved
+HIST0205,Street vendor electricity connections on Rajiv Chowk are illegally tapped causing overload issues.,utilities,OFF002,High,8,Resolved
+HIST0206,The electric meter box outside Central Park is open and exposed to rain. Very dangerous.,electricity,OFF005,Medium,4,Closed
+HIST0207,Promised amenities in housing scheme at Main Market were not delivered even after 2 days of possession.,housing,OFF010,Medium,12,Closed
+HIST0208,Bar and restaurant on MG Road plays loud music past midnight regularly violating rules.,noise_pollution,OFF008,Medium,14,Resolved
+HIST0209,Dead animals on Brigade Road have not been removed for 8 days causing disease outbreak risk.,sanitation,OFF003,High,6,Closed
+HIST0210,The road divider on Gandhi Nagar was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,Low,25,Resolved
+HIST0211,Power outage in Andheri West for 17 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,Medium,7,Resolved
+HIST0212,Dangling live electric wire on MG Road near City Hospital is a life-threatening hazard.,electricity,OFF005,Medium,7,Closed
+HIST0213,Speed breakers on Lal Bagh Road have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,Medium,16,Closed
+HIST0214,Potholes on the main highway near Central Park causing frequent accidents and vehicle damage.,transport,OFF007,Medium,12,Resolved
+HIST0215,The footpath on Rajiv Chowk is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Medium,27,Closed
+HIST0216,Government housing allotted to someone else despite my name on the official list for Sector 4.,housing,OFF010,High,9,Resolved
+HIST0217,The road divider on Civil Lines was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,Medium,18,Closed
+HIST0218,Internet and cable services have been disrupted in Powai for 7 days affecting work from home.,utilities,OFF002,Medium,14,Resolved
+HIST0219,A burst pipe on Shastri Marg has been flooding the road for 10 days. No repair work started.,water_supply,OFF004,Medium,5,Resolved
+HIST0220,Tax deducted twice for Salt Lake property this quarter. Requesting refund of excess amount.,taxation,OFF009,Medium,20,Resolved
+HIST0221,Received income tax notice with wrong PAN number. My returns are filed but notice not withdrawn.,taxation,OFF009,Low,22,Resolved
+HIST0222,A burst pipe on Lal Bagh Road has been flooding the road for 16 days. No repair work started.,water_supply,OFF004,High,6,Resolved
+HIST0223,High voltage fluctuation on MG Road damaged our appliances. Need compensation and immediate fix.,electricity,OFF005,High,4,Resolved
+HIST0224,Construction work on Rajiv Chowk continues all night violating noise pollution norms. No sleep for 6 days.,noise_pollution,OFF008,Medium,12,Resolved
+HIST0225,Speed breakers on Civil Lines have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,Low,15,Closed
+HIST0226,No water supply in Salt Lake for 28 days. Residents are buying expensive tankers just to survive.,water_supply,OFF004,Medium,12,Resolved
+HIST0227,The municipal wifi hotspot at Government School has not been working for 14 days.,utilities,OFF002,Medium,13,Closed
+HIST0228,Electricity bill for Gomti Nagar is three times higher than usual without any increase in usage.,electricity,OFF005,High,3,Resolved
+HIST0229,The borewell at District Court has dried up leaving the community with no water source.,water_supply,OFF004,Medium,6,Resolved
+HIST0230,The substation on MG Road is making loud humming noise and smells of burning for 19 days.,electricity,OFF005,Low,4,Resolved
+HIST0231,Construction work on Lal Bagh Road continues all night violating noise pollution norms. No sleep for 2 days.,noise_pollution,OFF008,Medium,10,Resolved
+HIST0232,Bus route 19 has been cancelled for 29 days. Thousands of commuters stranded daily.,transport,OFF007,High,2,Resolved
+HIST0233,Illegal dumping of construction waste at Town Hall is blocking the road and causing stench.,sanitation,OFF003,Medium,3,Closed
+HIST0234,The footpath on Gandhi Nagar is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Low,29,Resolved
+HIST0235,Speed breakers on Rajiv Chowk have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,Medium,30,Resolved
+HIST0236,Received property tax notice for Koramangala property with incorrect assessment value. Need correction.,taxation,OFF009,Medium,14,Closed
+HIST0237,Underground utility cables are exposed on Rajiv Chowk posing serious electrocution risk.,utilities,OFF002,High,4,Resolved
+HIST0238,Garbage has not been collected from Koramangala for 11 days. The smell is unbearable and health hazard.,sanitation,OFF003,Low,8,Resolved
+HIST0239,The substation on MG Road is making loud humming noise and smells of burning for 2 days.,electricity,OFF005,Low,14,Resolved
+HIST0240,Underground utility cables are exposed on Civil Lines posing serious electrocution risk.,utilities,OFF002,Medium,4,Resolved
+HIST0241,Government housing allotted to someone else despite my name on the official list for Ward 7.,housing,OFF010,Medium,41,Closed
+HIST0242,Tax exemption for senior citizen in Powai was removed without notice or reason this year.,taxation,OFF009,Medium,40,Closed
+HIST0243,A temple near Whitefield uses loudspeakers at 4am daily. Residents have complained 9 times.,noise_pollution,OFF008,Medium,14,Resolved
+HIST0244,A burst pipe on Civil Lines has been flooding the road for 15 days. No repair work started.,water_supply,OFF004,High,3,Closed
+HIST0245,Tax deducted twice for Whitefield property this quarter. Requesting refund of excess amount.,taxation,OFF009,Low,29,Closed
+HIST0246,The sanitation workers in Whitefield have not come for 22 days after the festival. Garbage piling up.,sanitation,OFF003,Medium,5,Resolved
+HIST0247,Expired medicines are being distributed at the health centre near Salt Lake. Serious negligence.,healthcare,OFF006,High,3,Resolved
+HIST0248,Mosquito breeding in stagnant water near Old Bus Stand due to poor drainage in Ward 7.,sanitation,OFF003,Medium,8,Closed
+HIST0249,The public telephone booth at Main Market is completely damaged and non-functional.,utilities,OFF002,Low,4,Closed
+HIST0250,Tax exemption for senior citizen in Krishna Nagar was removed without notice or reason this year.,taxation,OFF009,Medium,25,Resolved
+HIST0251,Medical oxygen cylinders at Post Office hospital are empty. ICU patients at risk.,healthcare,OFF006,High,1,Resolved
+HIST0252,The pedestrian crossing near Town Hall school has no zebra markings. Children in danger.,transport,OFF007,Medium,20,Closed
+HIST0253,The public telephone booth at Post Office is completely damaged and non-functional.,utilities,OFF002,High,4,Resolved
+HIST0254,Property tax amount for Banjara Hills is higher than neighbouring properties of same size without reason.,taxation,OFF009,High,24,Closed
+HIST0255,Promised amenities in housing scheme at Town Hall were not delivered even after 13 days of possession.,housing,OFF010,Low,19,Resolved
+HIST0256,Water supply timing in Whitefield has changed without notice causing major inconvenience.,water_supply,OFF004,High,3,Resolved
+HIST0257,The transformer on Shastri Marg is producing loud sparking sounds since last night. Very dangerous.,utilities,OFF002,High,9,Resolved
+HIST0258,Construction of building on Rajiv Chowk is illegal as it violates floor space index regulations.,housing,OFF010,Medium,37,Resolved
+HIST0259,The drainage system on MG Road collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,High,17,Resolved
+HIST0260,The ambulance service in Salt Lake took 24 hours to respond causing a patient's death.,healthcare,OFF006,High,4,Resolved
+HIST0261,High voltage fluctuation on Gandhi Nagar damaged our appliances. Need compensation and immediate fix.,electricity,OFF005,High,1,Resolved
+HIST0262,Multiple utility poles on Gandhi Nagar are leaning and may fall during the next storm.,utilities,OFF002,Medium,5,Resolved
+HIST0263,Tax deducted twice for Salt Lake property this quarter. Requesting refund of excess amount.,taxation,OFF009,Medium,42,Closed
+HIST0264,The road on Rajiv Chowk has large potholes that have been causing accidents for 13 days. Several vehicles have been damaged.,infrastructure,OFF001,Medium,11,Resolved
+HIST0265,Mosquito breeding in stagnant water near Municipal Office due to poor drainage in Banjara Hills.,sanitation,OFF003,Medium,2,Closed
+HIST0266,No water supply in Andheri West for 18 days. Residents are buying expensive tankers just to survive.,water_supply,OFF004,Medium,1,Resolved
+HIST0267,The substation on Sector 14 is making loud humming noise and smells of burning for 21 days.,electricity,OFF005,High,1,Resolved
+HIST0268,The water tank at Municipal Office has overflowed for 20 consecutive days wasting thousands of litres.,water_supply,OFF004,Medium,5,Resolved
+HIST0269,Water coming from taps in Andheri West is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,Medium,2,Resolved
+HIST0270,A temple near Salt Lake uses loudspeakers at 4am daily. Residents have complained 6 times.,noise_pollution,OFF008,Low,12,Resolved
+HIST0271,Common areas in government housing at City Hospital are being illegally encroached upon.,housing,OFF010,High,35,Resolved
+HIST0272,Speed breakers on Civil Lines have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,Low,22,Resolved
+HIST0273,Power outage in Gomti Nagar for 11 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,4,Resolved
+HIST0274,The housing society at Railway Station is denying flat possession despite full payment 20 days ago.,housing,OFF010,High,23,Resolved
+HIST0275,Flyover construction debris has not been cleared from Gandhi Nagar for 25 days causing major traffic issues.,infrastructure,OFF001,High,2,Closed
+HIST0276,Sewage water is mixing with drinking water pipeline near Brigade Road. Very serious health risk.,water_supply,OFF004,High,7,Resolved
+HIST0277,Electricity bill for Salt Lake is three times higher than usual without any increase in usage.,electricity,OFF005,Medium,1,Resolved
+HIST0278,Speed breakers on Gandhi Nagar have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,High,7,Resolved
+HIST0279,The footpath on Rajiv Chowk is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Low,21,Closed
+HIST0280,The railway station at Central Park has no proper lighting in the parking area causing theft.,transport,OFF007,Medium,15,Resolved
+HIST0281,Speed breakers on Anna Salai have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,Medium,9,Closed
+HIST0282,Illegal electricity connections tapped from main line on Sector 14 causing frequent outages.,electricity,OFF005,High,1,Resolved
+HIST0283,Rental agreement disputes in Salt Lake — landlord has locked the property illegally during tenancy.,housing,OFF010,Low,56,Resolved
+HIST0284,Bar and restaurant on Brigade Road plays loud music past midnight regularly violating rules.,noise_pollution,OFF008,Low,18,Resolved
+HIST0285,Unhygienic food being sold near Municipal Office hospital. Multiple food poisoning cases reported.,healthcare,OFF006,High,1,Resolved
+HIST0286,The vaccination camp scheduled at Central Park was cancelled without notice for 6 weeks.,healthcare,OFF006,Medium,1,Resolved
+HIST0287,My GST registration application has been pending for 8 days without any response.,taxation,OFF009,High,22,Closed
+HIST0288,Slum demolition in Banjara Hills was done without proper notice or rehabilitation arrangements for 11 families.,housing,OFF010,Low,81,Resolved
+HIST0289,The road divider on Anna Salai was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,High,5,Closed
+HIST0290,Honking near Railway Station school zone is continuous despite no-horn boards. Students cannot concentrate.,noise_pollution,OFF008,Medium,13,Closed
+HIST0291,Internet and cable services have been disrupted in Salt Lake for 5 days affecting work from home.,utilities,OFF002,High,7,Resolved
+HIST0292,Dead animals on Lal Bagh Road have not been removed for 29 days causing disease outbreak risk.,sanitation,OFF003,Medium,9,Resolved
+HIST0293,The sanitation workers in Sector 4 have not come for 10 days after the festival. Garbage piling up.,sanitation,OFF003,Medium,5,Closed
+HIST0294,Repeated tripping of main supply in Koramangala causing power cuts 7 times a day.,electricity,OFF005,High,5,Closed
+HIST0295,Water meter readings in Whitefield are incorrect. Getting bills for double the actual usage.,water_supply,OFF004,High,3,Closed
+HIST0296,The public toilet at Municipal Office has been locked for 11 days leaving no facility for residents.,sanitation,OFF003,High,4,Resolved
+HIST0297,A large pothole on Rajiv Chowk near Railway Station caused my vehicle to break down. This has been reported 16 times before.,infrastructure,OFF001,High,2,Closed
+HIST0298,Loudspeakers at District Court play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Medium,2,Resolved
+HIST0299,The transformer in Banjara Hills exploded last night. No power since then. No response from electricity board.,electricity,OFF005,Low,12,Closed
+HIST0300,Water coming from taps in Ward 7 is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,High,3,Closed
+HIST0301,The public telephone booth at Post Office is completely damaged and non-functional.,utilities,OFF002,Medium,10,Closed
+HIST0302,The substation on Lal Bagh Road is making loud humming noise and smells of burning for 1 days.,electricity,OFF005,Low,2,Closed
+HIST0303,The public toilet at Municipal Office has been locked for 11 days leaving no facility for residents.,sanitation,OFF003,Low,1,Resolved
+HIST0304,New tax levied on Koramangala residents without proper public notification or justification.,taxation,OFF009,Low,30,Closed
+HIST0305,Illegal parking of commercial vehicles on Sector 14 blocks traffic for hours every day.,transport,OFF007,High,2,Closed
+HIST0306,The water pipeline on Shastri Marg is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,High,7,Resolved
+HIST0307,The municipal wifi hotspot at Old Bus Stand has not been working for 28 days.,utilities,OFF002,Low,18,Closed
+HIST0308,Fake medical practitioners operating clinic on Rajiv Chowk without valid license.,healthcare,OFF006,High,1,Closed
+HIST0309,The footpath on Lal Bagh Road is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Medium,13,Resolved
+HIST0310,"No sanitation in government hospital at City Hospital. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,Medium,6,Resolved
+HIST0311,Bus route 2 has been cancelled for 19 days. Thousands of commuters stranded daily.,transport,OFF007,Low,23,Closed
+HIST0312,Honking near Municipal Office school zone is continuous despite no-horn boards. Students cannot concentrate.,noise_pollution,OFF008,High,1,Closed
+HIST0313,The public toilet at Central Park has been locked for 27 days leaving no facility for residents.,sanitation,OFF003,High,1,Resolved
+HIST0314,The transformer on Rajiv Chowk is producing loud sparking sounds since last night. Very dangerous.,utilities,OFF002,Low,4,Closed
+HIST0315,Unhygienic food being sold near Main Market hospital. Multiple food poisoning cases reported.,healthcare,OFF006,High,4,Closed
+HIST0316,Illegal dumping of construction waste at Old Bus Stand is blocking the road and causing stench.,sanitation,OFF003,Medium,9,Resolved
+HIST0317,Garbage has not been collected from Powai for 12 days. The smell is unbearable and health hazard.,sanitation,OFF003,High,6,Closed
+HIST0318,Street vendor electricity connections on Gandhi Nagar are illegally tapped causing overload issues.,utilities,OFF002,High,6,Closed
+HIST0319,Street lights on MG Road have not been working since 15 days causing safety issues at night.,infrastructure,OFF001,Low,14,Resolved
+HIST0320,The water pipeline on Shastri Marg is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,High,1,Closed
+HIST0321,Fake medical practitioners operating clinic on Rajiv Chowk without valid license.,healthcare,OFF006,High,1,Resolved
+HIST0322,Bar and restaurant on Gandhi Nagar plays loud music past midnight regularly violating rules.,noise_pollution,OFF008,Medium,12,Closed
+HIST0323,Loudspeakers at Post Office play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Medium,13,Resolved
+HIST0324,"No sanitation in government hospital at District Court. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,4,Resolved
+HIST0325,Dangling live electric wire on Lal Bagh Road near Town Hall is a life-threatening hazard.,electricity,OFF005,Medium,3,Resolved
+HIST0326,Mosquito breeding in stagnant water near District Court due to poor drainage in Koramangala.,sanitation,OFF003,Medium,1,Resolved
+HIST0327,Multiple utility poles on MG Road are leaning and may fall during the next storm.,utilities,OFF002,High,9,Resolved
+HIST0328,Stray dogs are feeding on garbage dumped near Shastri Marg creating health and safety risks.,sanitation,OFF003,Medium,8,Closed
+HIST0329,Illegal DJ parties in open ground near Municipal Office till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Medium,9,Closed
+HIST0330,No bus shelter on MG Road causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,10,Closed
+HIST0331,E-rickshaw operators in Powai are overloading passengers dangerously beyond capacity.,transport,OFF007,Low,25,Resolved
+HIST0332,The housing society at District Court is denying flat possession despite full payment 3 days ago.,housing,OFF010,Low,19,Resolved
+HIST0333,Illegal DJ parties in open ground near Municipal Office till 3am disturbing entire neighbourhood.,noise_pollution,OFF008,Medium,4,Resolved
+HIST0334,High voltage fluctuation on Nehru Street damaged our appliances. Need compensation and immediate fix.,electricity,OFF005,Medium,3,Closed
+HIST0335,Road tax was paid 12 days ago but vehicle registration portal shows as pending.,taxation,OFF009,Medium,32,Closed
+HIST0336,A burst pipe on Sector 14 has been flooding the road for 25 days. No repair work started.,water_supply,OFF004,High,3,Resolved
+HIST0337,Traffic signal at Shastri Marg junction has been non-functional for 13 days causing accidents.,transport,OFF007,High,10,Closed
+HIST0338,Government housing allotted to someone else despite my name on the official list for Krishna Nagar.,housing,OFF010,Medium,26,Closed
+HIST0339,The drainage system on Anna Salai collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,High,5,Resolved
+HIST0340,The water tank at Central Park has overflowed for 13 consecutive days wasting thousands of litres.,water_supply,OFF004,High,3,Resolved
+HIST0341,The pedestrian crossing near Town Hall school has no zebra markings. Children in danger.,transport,OFF007,Medium,18,Resolved
+HIST0342,A factory near Central Park is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,High,2,Closed
+HIST0343,Tax exemption for senior citizen in Andheri West was removed without notice or reason this year.,taxation,OFF009,Medium,10,Resolved
+HIST0344,No bus shelter on Gandhi Nagar causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,12,Closed
+HIST0345,Expired medicines are being distributed at the health centre near Powai. Serious negligence.,healthcare,OFF006,Medium,1,Resolved
+HIST0346,The road divider on Anna Salai was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,Medium,17,Resolved
+HIST0347,The bridge near Municipal Office is showing cracks and looks structurally unsafe. Immediate inspection required.,infrastructure,OFF001,High,7,Closed
+HIST0348,Power outage in Krishna Nagar for 10 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,4,Resolved
+HIST0349,Power outage in Koramangala for 24 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,Medium,7,Resolved
+HIST0350,Open defecation is happening near Central Park due to lack of public toilets. Urgent action needed.,sanitation,OFF003,Medium,7,Resolved
+HIST0351,The vaccination camp scheduled at Railway Station was cancelled without notice for 16 weeks.,healthcare,OFF006,High,1,Resolved
+HIST0352,Street lights on Anna Salai have not been working since 17 days causing safety issues at night.,infrastructure,OFF001,High,13,Closed
+HIST0353,The electric meter box outside City Hospital is open and exposed to rain. Very dangerous.,electricity,OFF005,Medium,2,Resolved
+HIST0354,Underground utility cables are exposed on Anna Salai posing serious electrocution risk.,utilities,OFF002,Medium,13,Resolved
+HIST0355,The road divider on Anna Salai was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,High,15,Resolved
+HIST0356,Repeated tripping of main supply in Salt Lake causing power cuts 7 times a day.,electricity,OFF005,Medium,5,Resolved
+HIST0357,Bus driver on route 10 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,Medium,12,Resolved
+HIST0358,Low water pressure in Gomti Nagar since 3 days. Water does not reach above first floor.,water_supply,OFF004,Medium,10,Resolved
+HIST0359,Common areas in government housing at District Court are being illegally encroached upon.,housing,OFF010,Low,7,Resolved
+HIST0360,Medical oxygen cylinders at Municipal Office hospital are empty. ICU patients at risk.,healthcare,OFF006,High,3,Resolved
+HIST0361,No bus shelter on Sector 14 causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,13,Resolved
+HIST0362,The borewell at Town Hall has dried up leaving the community with no water source.,water_supply,OFF004,High,4,Resolved
+HIST0363,Broken dustbins on Anna Salai are causing litter to spread across the road and nearby shops.,sanitation,OFF003,Medium,1,Resolved
+HIST0364,New tax levied on Powai residents without proper public notification or justification.,taxation,OFF009,Medium,14,Resolved
+HIST0365,Bus driver on route 7 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,Low,19,Closed
+HIST0366,Traffic signal at Rajiv Chowk junction has been non-functional for 9 days causing accidents.,transport,OFF007,Medium,5,Closed
+HIST0367,Unhygienic food being sold near Government School hospital. Multiple food poisoning cases reported.,healthcare,OFF006,High,2,Resolved
+HIST0368,Loudspeakers at Main Market play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Low,19,Resolved
+HIST0369,Open defecation is happening near Post Office due to lack of public toilets. Urgent action needed.,sanitation,OFF003,High,1,Closed
+HIST0370,The water pipeline on Anna Salai is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,Medium,1,Resolved
+HIST0371,Slum demolition in Andheri West was done without proper notice or rehabilitation arrangements for 4 families.,housing,OFF010,Low,8,Closed
+HIST0372,Common areas in government housing at Government School are being illegally encroached upon.,housing,OFF010,Medium,51,Resolved
+HIST0373,Mosquito breeding in stagnant water near District Court due to poor drainage in Krishna Nagar.,sanitation,OFF003,Low,5,Closed
+HIST0374,Honking near Post Office school zone is continuous despite no-horn boards. Students cannot concentrate.,noise_pollution,OFF008,Low,14,Closed
+HIST0375,Multiple utility poles on Nehru Street are leaning and may fall during the next storm.,utilities,OFF002,High,1,Closed
+HIST0376,Potholes on the main highway near Main Market causing frequent accidents and vehicle damage.,transport,OFF007,Low,26,Resolved
+HIST0377,Promised amenities in housing scheme at Municipal Office were not delivered even after 27 days of possession.,housing,OFF010,High,18,Closed
+HIST0378,The road divider on Sector 14 was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,High,18,Resolved
+HIST0379,Construction of building on Nehru Street is illegal as it violates floor space index regulations.,housing,OFF010,High,12,Resolved
+HIST0380,The water tank at District Court has overflowed for 15 consecutive days wasting thousands of litres.,water_supply,OFF004,Medium,13,Resolved
+HIST0381,"No sanitation in government hospital at District Court. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,3,Resolved
+HIST0382,The public toilet at Town Hall has been locked for 8 days leaving no facility for residents.,sanitation,OFF003,Medium,5,Resolved
+HIST0383,Broken dustbins on Shastri Marg are causing litter to spread across the road and nearby shops.,sanitation,OFF003,High,1,Resolved
+HIST0384,My house in Gomti Nagar was flooded due to nearby illegal construction blocking the natural drain.,housing,OFF010,Medium,14,Closed
+HIST0385,A large pothole on Civil Lines near Government School caused my vehicle to break down. This has been reported 17 times before.,infrastructure,OFF001,Medium,8,Resolved
+HIST0386,Broken dustbins on Brigade Road are causing litter to spread across the road and nearby shops.,sanitation,OFF003,Low,11,Closed
+HIST0387,The sanitation workers in Andheri West have not come for 29 days after the festival. Garbage piling up.,sanitation,OFF003,High,1,Resolved
+HIST0388,The water tank at Railway Station has overflowed for 9 consecutive days wasting thousands of litres.,water_supply,OFF004,Medium,6,Resolved
+HIST0389,Construction work on Brigade Road continues all night violating noise pollution norms. No sleep for 12 days.,noise_pollution,OFF008,Medium,3,Resolved
+HIST0390,Tax deducted twice for Powai property this quarter. Requesting refund of excess amount.,taxation,OFF009,Low,14,Resolved
+HIST0391,Promised amenities in housing scheme at Railway Station were not delivered even after 26 days of possession.,housing,OFF010,Medium,46,Resolved
+HIST0392,A burst pipe on Nehru Street has been flooding the road for 9 days. No repair work started.,water_supply,OFF004,High,7,Resolved
+HIST0393,The public telephone booth at Town Hall is completely damaged and non-functional.,utilities,OFF002,High,7,Closed
+HIST0394,Honking near Government School school zone is continuous despite no-horn boards. Students cannot concentrate.,noise_pollution,OFF008,High,1,Resolved
+HIST0395,Street vendor electricity connections on Rajiv Chowk are illegally tapped causing overload issues.,utilities,OFF002,Medium,5,Closed
+HIST0396,The drainage system on Sector 14 collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,Medium,23,Closed
+HIST0397,Construction work on Shastri Marg continues all night violating noise pollution norms. No sleep for 9 days.,noise_pollution,OFF008,Medium,7,Closed
+HIST0398,Bar and restaurant on Shastri Marg plays loud music past midnight regularly violating rules.,noise_pollution,OFF008,Medium,10,Closed
+HIST0399,Streetlights in Andheri West are on during daytime wasting electricity for 1 days.,electricity,OFF005,Low,12,Resolved
+HIST0400,Loudspeakers at Central Park play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,High,5,Resolved
+HIST0401,My GST registration application has been pending for 7 days without any response.,taxation,OFF009,Medium,27,Closed
+HIST0402,A factory near Post Office is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,Medium,5,Resolved
+HIST0403,The public toilet at Old Bus Stand has been locked for 17 days leaving no facility for residents.,sanitation,OFF003,Medium,7,Closed
+HIST0404,Dangling live electric wire on Shastri Marg near Municipal Office is a life-threatening hazard.,electricity,OFF005,High,3,Closed
+HIST0405,The vaccination camp scheduled at Main Market was cancelled without notice for 15 weeks.,healthcare,OFF006,High,2,Resolved
+HIST0406,Traffic signal at Nehru Street junction has been non-functional for 1 days causing accidents.,transport,OFF007,High,6,Resolved
+HIST0407,The government hospital at Main Market does not have doctors available for 11 days. Patients suffering.,healthcare,OFF006,High,1,Resolved
+HIST0408,Promised amenities in housing scheme at Town Hall were not delivered even after 3 days of possession.,housing,OFF010,High,30,Resolved
+HIST0409,Rental agreement disputes in Andheri West — landlord has locked the property illegally during tenancy.,housing,OFF010,Low,58,Resolved
+HIST0410,The bridge near District Court is showing cracks and looks structurally unsafe. Immediate inspection required.,infrastructure,OFF001,Medium,12,Resolved
+HIST0411,Loudspeakers at District Court play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Low,15,Resolved
+HIST0412,Slum demolition in Andheri West was done without proper notice or rehabilitation arrangements for 12 families.,housing,OFF010,Medium,53,Closed
+HIST0413,Repeated tripping of main supply in Sector 4 causing power cuts 4 times a day.,electricity,OFF005,Low,8,Resolved
+HIST0414,Firecrackers being burst in Andheri West every night for 8 days causing distress to elderly and children.,noise_pollution,OFF008,Medium,5,Closed
+HIST0415,The transformer in Krishna Nagar exploded last night. No power since then. No response from electricity board.,electricity,OFF005,High,4,Resolved
+HIST0416,Received property tax notice for Sector 4 property with incorrect assessment value. Need correction.,taxation,OFF009,Low,54,Resolved
+HIST0417,New tax levied on Koramangala residents without proper public notification or justification.,taxation,OFF009,Low,60,Resolved
+HIST0418,Tax deducted twice for Powai property this quarter. Requesting refund of excess amount.,taxation,OFF009,Medium,36,Closed
+HIST0419,Water coming from taps in Andheri West is brownish and smells bad. Definitely contaminated.,water_supply,OFF004,Medium,2,Resolved
+HIST0420,Building near Government School is under construction without valid permits blocking emergency exit roads.,housing,OFF010,Medium,23,Resolved
+HIST0421,Common areas in government housing at City Hospital are being illegally encroached upon.,housing,OFF010,High,35,Resolved
+HIST0422,Building near Municipal Office is under construction without valid permits blocking emergency exit roads.,housing,OFF010,Low,70,Closed
+HIST0423,Dead animals on Nehru Street have not been removed for 6 days causing disease outbreak risk.,sanitation,OFF003,High,6,Resolved
+HIST0424,The sanitation workers in Koramangala have not come for 28 days after the festival. Garbage piling up.,sanitation,OFF003,Low,5,Resolved
+HIST0425,Electricity bill for Gomti Nagar is three times higher than usual without any increase in usage.,electricity,OFF005,Medium,1,Resolved
+HIST0426,A factory near City Hospital is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,Medium,9,Resolved
+HIST0427,Bus driver on route 5 was drunk and driving rashly. Passengers feared for their lives.,transport,OFF007,High,4,Closed
+HIST0428,Promised amenities in housing scheme at Old Bus Stand were not delivered even after 4 days of possession.,housing,OFF010,Low,37,Closed
+HIST0429,Fake medical practitioners operating clinic on Rajiv Chowk without valid license.,healthcare,OFF006,High,1,Closed
+HIST0430,Street vendor electricity connections on MG Road are illegally tapped causing overload issues.,utilities,OFF002,High,8,Resolved
+HIST0431,Medical oxygen cylinders at Central Park hospital are empty. ICU patients at risk.,healthcare,OFF006,High,3,Resolved
+HIST0432,The pedestrian crossing near Town Hall school has no zebra markings. Children in danger.,transport,OFF007,Low,9,Closed
+HIST0433,Street lights on Brigade Road have not been working since 23 days causing safety issues at night.,infrastructure,OFF001,Medium,4,Closed
+HIST0434,The water tank at Post Office has overflowed for 27 consecutive days wasting thousands of litres.,water_supply,OFF004,High,1,Closed
+HIST0435,The public toilet at Central Park has been locked for 1 days leaving no facility for residents.,sanitation,OFF003,High,4,Closed
+HIST0436,"No sanitation in government hospital at District Court. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,2,Resolved
+HIST0437,The drain near MG Road is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,High,1,Resolved
+HIST0438,The ambulance service in Ward 7 took 4 hours to respond causing a patient's death.,healthcare,OFF006,High,2,Closed
+HIST0439,Loudspeakers at City Hospital play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,Low,8,Resolved
+HIST0440,Unhygienic food being sold near Post Office hospital. Multiple food poisoning cases reported.,healthcare,OFF006,Medium,7,Closed
+HIST0441,The water pipeline on Rajiv Chowk is leaking heavily causing waterlogging and water wastage.,water_supply,OFF004,High,1,Closed
+HIST0442,The municipal wifi hotspot at Post Office has not been working for 8 days.,utilities,OFF002,High,7,Closed
+HIST0443,Illegal electricity connections tapped from main line on Lal Bagh Road causing frequent outages.,electricity,OFF005,Low,7,Resolved
+HIST0444,Fake medical practitioners operating clinic on Civil Lines without valid license.,healthcare,OFF006,Medium,7,Resolved
+HIST0445,The footpath on Nehru Street is completely broken and dangerous for pedestrians especially elderly people.,infrastructure,OFF001,Low,14,Resolved
+HIST0446,Traffic signal at MG Road junction has been non-functional for 16 days causing accidents.,transport,OFF007,High,12,Resolved
+HIST0447,Firecrackers being burst in Banjara Hills every night for 18 days causing distress to elderly and children.,noise_pollution,OFF008,High,3,Closed
+HIST0448,Road tax was paid 11 days ago but vehicle registration portal shows as pending.,taxation,OFF009,Low,50,Closed
+HIST0449,Multiple utility poles on Brigade Road are leaning and may fall during the next storm.,utilities,OFF002,High,1,Closed
+HIST0450,Open defecation is happening near Municipal Office due to lack of public toilets. Urgent action needed.,sanitation,OFF003,Medium,3,Resolved
+HIST0451,Streetlights in Ward 7 are on during daytime wasting electricity for 28 days.,electricity,OFF005,High,5,Resolved
+HIST0452,Dead animals on MG Road have not been removed for 17 days causing disease outbreak risk.,sanitation,OFF003,Medium,9,Closed
+HIST0453,Speed breakers on Civil Lines have been damaged and are not visible causing accidents at night.,infrastructure,OFF001,High,4,Resolved
+HIST0454,Broken dustbins on Rajiv Chowk are causing litter to spread across the road and nearby shops.,sanitation,OFF003,Low,7,Resolved
+HIST0455,No bus shelter on Sector 14 causing hardship for commuters in rain and extreme heat.,transport,OFF007,Medium,6,Closed
+HIST0456,Power outage in Powai for 22 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,6,Closed
+HIST0457,Gas pipeline leak detected near Sector 14. Strong smell of gas in the area since 16 hours.,utilities,OFF002,Medium,13,Resolved
+HIST0458,The railway station at Main Market has no proper lighting in the parking area causing theft.,transport,OFF007,Low,5,Resolved
+HIST0459,Electricity bill for Whitefield is three times higher than usual without any increase in usage.,electricity,OFF005,High,1,Closed
+HIST0460,Illegal electricity connections tapped from main line on MG Road causing frequent outages.,electricity,OFF005,High,6,Resolved
+HIST0461,A burst pipe on Shastri Marg has been flooding the road for 24 days. No repair work started.,water_supply,OFF004,High,7,Closed
+HIST0462,"No sanitation in government hospital at Main Market. Toilets not cleaned, wards have foul smell.",healthcare,OFF006,High,1,Closed
+HIST0463,Bar and restaurant on Rajiv Chowk plays loud music past midnight regularly violating rules.,noise_pollution,OFF008,Medium,12,Resolved
+HIST0464,Illegal parking of commercial vehicles on MG Road blocks traffic for hours every day.,transport,OFF007,Low,25,Resolved
+HIST0465,No bus shelter on Civil Lines causing hardship for commuters in rain and extreme heat.,transport,OFF007,High,10,Resolved
+HIST0466,Common areas in government housing at Central Park are being illegally encroached upon.,housing,OFF010,Medium,38,Closed
+HIST0467,Bus route 5 has been cancelled for 27 days. Thousands of commuters stranded daily.,transport,OFF007,Medium,5,Resolved
+HIST0468,Doctor at Main Market clinic demanding extra cash for treatments covered under government scheme.,healthcare,OFF006,High,4,Resolved
+HIST0469,Construction work on Sector 14 continues all night violating noise pollution norms. No sleep for 7 days.,noise_pollution,OFF008,High,7,Resolved
+HIST0470,The transformer on Sector 14 is producing loud sparking sounds since last night. Very dangerous.,utilities,OFF002,High,6,Resolved
+HIST0471,The ambulance service in Sector 4 took 11 hours to respond causing a patient's death.,healthcare,OFF006,Medium,6,Resolved
+HIST0472,Dead animals on Brigade Road have not been removed for 24 days causing disease outbreak risk.,sanitation,OFF003,Medium,3,Resolved
+HIST0473,Multiple utility poles on Civil Lines are leaning and may fall during the next storm.,utilities,OFF002,High,3,Resolved
+HIST0474,The municipal wifi hotspot at Post Office has not been working for 21 days.,utilities,OFF002,Medium,4,Resolved
+HIST0475,A temple near Koramangala uses loudspeakers at 4am daily. Residents have complained 7 times.,noise_pollution,OFF008,Low,9,Resolved
+HIST0476,Underground utility cables are exposed on Anna Salai posing serious electrocution risk.,utilities,OFF002,High,5,Closed
+HIST0477,The drain near Anna Salai is completely clogged with garbage causing flooding during rains.,sanitation,OFF003,Medium,7,Resolved
+HIST0478,Stray dogs are feeding on garbage dumped near Brigade Road creating health and safety risks.,sanitation,OFF003,High,3,Closed
+HIST0479,Construction of building on Civil Lines is illegal as it violates floor space index regulations.,housing,OFF010,High,8,Closed
+HIST0480,Power outage in Gomti Nagar for 8 days. Medicines in refrigerators are spoiling. Elderly patients suffering.,electricity,OFF005,High,2,Resolved
+HIST0481,A large pothole on Rajiv Chowk near City Hospital caused my vehicle to break down. This has been reported 16 times before.,infrastructure,OFF001,Medium,20,Closed
+HIST0482,Water supply timing in Whitefield has changed without notice causing major inconvenience.,water_supply,OFF004,Low,9,Closed
+HIST0483,Illegal electricity connections tapped from main line on Shastri Marg causing frequent outages.,electricity,OFF005,High,3,Resolved
+HIST0484,Stray dogs are feeding on garbage dumped near Rajiv Chowk creating health and safety risks.,sanitation,OFF003,Low,12,Closed
+HIST0485,A temple near Gomti Nagar uses loudspeakers at 4am daily. Residents have complained 13 times.,noise_pollution,OFF008,Low,16,Closed
+HIST0486,A burst pipe on Shastri Marg has been flooding the road for 15 days. No repair work started.,water_supply,OFF004,High,4,Resolved
+HIST0487,Garbage has not been collected from Powai for 21 days. The smell is unbearable and health hazard.,sanitation,OFF003,Low,11,Closed
+HIST0488,Open defecation is happening near Central Park due to lack of public toilets. Urgent action needed.,sanitation,OFF003,Low,1,Closed
+HIST0489,Rental agreement disputes in Salt Lake — landlord has locked the property illegally during tenancy.,housing,OFF010,Medium,49,Closed
+HIST0490,Illegal electricity connections tapped from main line on Rajiv Chowk causing frequent outages.,electricity,OFF005,Medium,10,Resolved
+HIST0491,The drainage system on MG Road collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,Medium,19,Resolved
+HIST0492,Dead animals on Rajiv Chowk have not been removed for 27 days causing disease outbreak risk.,sanitation,OFF003,High,4,Closed
+HIST0493,Multiple utility poles on Gandhi Nagar are leaning and may fall during the next storm.,utilities,OFF002,Medium,7,Closed
+HIST0494,Loudspeakers at Old Bus Stand play music beyond permitted decibel levels daily disturbing residents.,noise_pollution,OFF008,High,4,Resolved
+HIST0495,A factory near Town Hall is running heavy machinery at night causing unbearable noise pollution.,noise_pollution,OFF008,Medium,12,Closed
+HIST0496,Multiple utility poles on Lal Bagh Road are leaning and may fall during the next storm.,utilities,OFF002,Low,1,Closed
+HIST0497,The road divider on Gandhi Nagar was damaged in an accident last week and has not been repaired creating traffic hazards.,infrastructure,OFF001,High,9,Resolved
+HIST0498,The drainage system on Anna Salai collapsed causing road cave-in and major commute disruption.,infrastructure,OFF001,Medium,18,Resolved
+HIST0499,Received income tax notice with wrong PAN number. My returns are filed but notice not withdrawn.,taxation,OFF009,Medium,35,Closed
+HIST0500,The sanitation workers in Sector 4 have not come for 20 days after the festival. Garbage piling up.,sanitation,OFF003,Low,2,Resolved

@@ -1,0 +1,16 @@
+{
+  "officer_routing": {
+    "accuracy": 1.0,
+    "f1_weighted": 1.0
+  },
+  "priority_classification": {
+    "accuracy": 0.3833,
+    "f1_weighted": 0.3594
+  },
+  "eta_prediction": {
+    "mae_days": 10.83
+  },
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "training_samples": 1200,
+  "historical_samples": 500
+}

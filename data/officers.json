@@ -1,0 +1,52 @@
+{
+  "OFF001": {
+    "id": "OFF001",
+    "name": "Rajesh Kumar",
+    "domain": "infrastructure"
+  },
+  "OFF002": {
+    "id": "OFF002",
+    "name": "Priya Sharma",
+    "domain": "utilities"
+  },
+  "OFF003": {
+    "id": "OFF003",
+    "name": "Amit Verma",
+    "domain": "sanitation"
+  },
+  "OFF004": {
+    "id": "OFF004",
+    "name": "Sunita Patel",
+    "domain": "water_supply"
+  },
+  "OFF005": {
+    "id": "OFF005",
+    "name": "Deepak Singh",
+    "domain": "electricity"
+  },
+  "OFF006": {
+    "id": "OFF006",
+    "name": "Kavita Nair",
+    "domain": "healthcare"
+  },
+  "OFF007": {
+    "id": "OFF007",
+    "name": "Ravi Menon",
+    "domain": "transport"
+  },
+  "OFF008": {
+    "id": "OFF008",
+    "name": "Anita Gupta",
+    "domain": "noise_pollution"
+  },
+  "OFF009": {
+    "id": "OFF009",
+    "name": "Suresh Reddy",
+    "domain": "taxation"
+  },
+  "OFF010": {
+    "id": "OFF010",
+    "name": "Meena Joshi",
+    "domain": "housing"
+  }
+}
