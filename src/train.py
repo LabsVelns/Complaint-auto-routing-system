@@ -1,18 +1,3 @@
-"""
-train.py
---------
-Full training pipeline:
-  1. Load synthetic complaint data
-  2. Generate sentence embeddings (sentence-transformers, CPU)
-  3. Train officer routing classifier  (RandomForest)
-  4. Train priority classifier         (RandomForest)
-  5. Train ETA regression model        (RandomForestRegressor)
-  6. Build FAISS similarity index      (historical complaints)
-  7. Save all models + label encoders + FAISS index
-
-Run: python src/train.py
-"""
-
 import os
 import sys
 import json
